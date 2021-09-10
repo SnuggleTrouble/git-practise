@@ -1,3 +1,3 @@
-Name: Snuggles
+Name: SnuggleTrouble
 Age: 32
 Favorite Color: Teal
